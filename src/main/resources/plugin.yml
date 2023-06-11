@@ -1,0 +1,11 @@
+name: TemplateLoader
+main: dev.rexbluefox.Main
+version: 1.0
+
+commands:
+  example:
+    description: Example Command
+  createtemplate:
+    description: Creates Template for the Loader
+  loadtemplate:
+    description: Insert the template into the World

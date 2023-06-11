@@ -1,0 +1,7 @@
+dev\rexbluefox\commands\LoadTemplate.class
+dev\rexbluefox\commands\ExampleCommand.class
+dev\rexbluefox\commands\CreateTemplate.class
+dev\rexbluefox\listeners\SelectListener.class
+dev\rexbluefox\Main.class
+dev\rexbluefox\types\TemplateBlock.class
+dev\rexbluefox\types\Template.class
